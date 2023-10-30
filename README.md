@@ -1,6 +1,8 @@
 # Resume_PowerBI
 Welcome to my Power BI Resume Dashboard! As a passionate data analyst, I've created this dashboard to showcase my skills, experiences, and achievements in a visually engaging and informative way. It's a testament to my commitment to leveraging data for insights and storytelling.
 
+![image](https://github.com/MeghaviThakar/Resume_PowerBI/assets/126433977/fdb5a003-0ad5-44e6-84a2-bda9c2396080)
+
 Key Features:
 •	Data-Driven Resume: Explore my professional journey through data-driven visualizations, highlighting experiences and skills.
 •	Visual Storytelling: Experience the power of data storytelling as I walk you through my career accomplishments.
